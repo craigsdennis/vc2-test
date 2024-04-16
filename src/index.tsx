@@ -52,7 +52,7 @@ app.get("/", (c) => {
               <h2 className="text-xl font-semibold">Chat Settings</h2>
               <p className="text-sm text-chat-helpertext mt-1">
                 Try out different models and configurations for your chat
-                application
+                application dude
               </p>
             </div>
             <form>
